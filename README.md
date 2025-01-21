@@ -8,7 +8,7 @@ Radin-Mokari/Radin-Mokari is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-👋 Hi, I’m Radin Mokari, a Computer Science student <br>exploring the world of tech. I have an intermediate grip <br>on Python, some Java fundamentals, and a growing <br>interest in cloud computing with AWS, S3, and QuickSight. <br>I love taking on new challenges and building cool projects<br>—check them out below!
+👋 Hi, I’m Radin Mokari, a Computer Science student <br>exploring the world of tech. I have an intermediate grip <br>on Python, some Java fundamentals and basics of ML techniques, and a growing <br>interest in cloud computing with AWS, S3, and QuickSight. <br>I love taking on new challenges and building cool projects<br>—check them out below!
 
 
 ## 🌐 Socials:
