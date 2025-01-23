@@ -29,13 +29,13 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h2 align="left">Hi 👋! I'm Radin Mokari</h2>
-<h3 align="left">A passionate Computer Science student exploring the vast world of technology!</h3>
+<h2 align="center">Hi there 👋 I'm Radin Mokari</h2>
+<h3 align="center">A passionate Computer Science student exploring the limitless world of technology!</h3>
 
-<p align="left">
-  I have an intermediate proficiency in Python, a foundation in Java, and basic knowledge of machine learning techniques. I'm also diving into the exciting field of cloud computing, particularly AWS, S3, and QuickSight.
+<p align="center">
+  I have intermediate skills in Python, fundamental knowledge of Java, and a basic understanding of machine learning techniques. I'm currently expanding my expertise in cloud computing, particularly with AWS, S3, and QuickSight.
   <br><br>
-  I enjoy tackling challenges and creating innovative projects—feel free to check them out below!
+  I enjoy solving challenges and building innovative projects. Explore my repositories below!
 </p>
 
 ###
@@ -45,32 +45,40 @@ You can click the Preview link to take a look at your changes.
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Radin-Mokari&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
     height="150" 
-    alt="Top Languages" 
+    alt="Top Languages"
   />
-  
+
   <!-- GitHub Streak Stats -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Radin-Mokari&theme=aura&hide_border=false" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Radin-Mokari&theme=dracula&hide_border=false" 
     height="150" 
-    alt="GitHub Streak" 
+    alt="GitHub Streak"
   />
 
   <!-- GitHub Profile Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Radin-Mokari&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" 
     height="150" 
-    alt="GitHub Stats" 
+    alt="GitHub Stats"
   />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/f6/51/b0/f651b01095f3e3754ea5d3f5d6db90c9.gif" alt="GIF Animation" />
+<div align="center">
+  <!-- GIF Animation -->
+  <img 
+    src="https://i.pinimg.com/originals/f6/51/b0/f651b01095f3e3754ea5d3f5d6db90c9.gif" 
+    height="150" 
+    alt="Cool GIF"
+  />
+</div>
 
 ###
 
-<div align="left">
+<div align="center">
   <!-- Tech Stack Icons -->
+  <p>Technologies & Tools I Use:</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
@@ -86,23 +94,25 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<div align="left">
+<div align="center">
   <!-- Contact Buttons -->
+  <p>Connect with me:</p>
   <a href="https://www.linkedin.com/in/radin-mokari" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="mailto:radinmokariii@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="mailto:radinmokariii@gmail.com" target="_blank">
+  <a href="mailto:radinmokariii@outlook.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="35" alt="Outlook" />
   </a>
 </div>
 
 ###
 
-<br clear="both">
+<div align="center">
+  <!-- Snake Animation -->
+  <img src="https://raw.githubusercontent.com/Radin-Mokari/Radin-Mokari/output/snake.svg" alt="Snake animation" />
+</div>
 
-<!-- Snake Animation -->
-<img src="https://raw.githubusercontent.com/Radin-Mokari/Radin-Mokari/output/snake.svg" alt="Snake animation" />
 
