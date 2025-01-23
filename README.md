@@ -31,6 +31,8 @@ You can click the Preview link to take a look at your changes.
 
 <h2 align="left">Hi 👋! My name is Radin Mokari, a computer science student<br>exploring the world of tech</h2>
 
+<h3 align="left"> I have an intermediate grip <br>on Python, some Java fundamentals and basics of ML techniques, and a growing <br>interest in cloud computing with AWS, S3, and QuickSight. <br>I love taking on new challenges and building cool projects<br>—check them out below!</h3>
+
 ###
 
 <div align="center">
