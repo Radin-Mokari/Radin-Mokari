@@ -48,20 +48,25 @@ You can click the Preview link to take a look at your changes.
     alt="Top Languages" 
   />
   
-  <!-- GitHub Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Radin-Mokari&theme=aura&hide_border=false" 
-    height="150" 
-    alt="GitHub Streak" 
-  />
+  <!-- Flex container for Streak Stats and Profile Stats -->
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px;">
+    <!-- GitHub Streak Stats -->
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=Radin-Mokari&theme=aura&hide_border=false" 
+      height="150" 
+      alt="GitHub Streak" 
+    />
 
-  <!-- GitHub Profile Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Radin-Mokari&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" 
-    height="150" 
-    alt="GitHub Stats" 
-  />
+    <!-- GitHub Profile Stats -->
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Radin-Mokari&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" 
+  height="150" 
+  alt="GitHub Stats" 
+/>
+
+  </div>
 </div>
+
 
 ###
 
