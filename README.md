@@ -58,12 +58,11 @@ You can click the Preview link to take a look at your changes.
     />
 
     <!-- GitHub Profile Stats -->
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Radin-Mokari&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" 
-  height="150" 
-  alt="GitHub Stats" 
-/>
-
+   <img 
+      src="https://github-readme-stats.vercel.app/api?username=Radin-Mokari&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" 
+      height="150" 
+      alt="GitHub Stats" 
+    />
   </div>
 </div>
 
