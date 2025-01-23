@@ -48,3 +48,9 @@ You can click the Preview link to take a look at your changes.
 [![](https://visitcount.itsvg.in/api?id=Radin-Mokari&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+
+![snake gif](https://github.com/Radin-Mokari/Radin-Mokari/blob/output/github-snake-dark.svg)
+
+</div>
