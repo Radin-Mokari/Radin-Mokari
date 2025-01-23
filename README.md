@@ -29,61 +29,73 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h2 align="left">Hi 👋! My name is Radin Mokari, a computer science student<br>exploring the world of tech</h2>
+<h2 align="left">Hi 👋! I'm Radin Mokari</h2>
+<h3 align="left">A passionate Computer Science student exploring the vast world of technology!</h3>
 
-<h3 align="left"> I have an intermediate grip <br>on Python, some Java fundamentals and basics of ML techniques, and a growing <br>interest in cloud computing with AWS, S3, and QuickSight. <br>I love taking on new challenges and building cool projects<br>—check them out below!</h3>
+<p align="left">
+  I have an intermediate proficiency in Python, a foundation in Java, and basic knowledge of machine learning techniques. I'm also diving into the exciting field of cloud computing, particularly AWS, S3, and QuickSight.
+  <br><br>
+  I enjoy tackling challenges and creating innovative projects—feel free to check them out below!
+</p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Radin-Mokari&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
+  <!-- GitHub Language Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Radin-Mokari&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
+    height="150" 
+    alt="Top Languages" 
+  />
   
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=Radin-Mokari&theme=aura&hide_border=false)<br/> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Radin-Mokari&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Radin-Mokari&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <!-- GitHub Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Radin-Mokari&theme=aura&hide_border=false" 
+    height="150" 
+    alt="GitHub Streak" 
+  />
+
+  <!-- GitHub Profile Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Radin-Mokari&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" 
+    height="150" 
+    alt="GitHub Stats" 
+  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/f6/51/b0/f651b01095f3e3754ea5d3f5d6db90c9.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/originals/f6/51/b0/f651b01095f3e3754ea5d3f5d6db90c9.gif" alt="GIF Animation" />
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="html5 logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="python logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="38" alt="sqlite logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="mysql logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="38" alt="amazonwebservices logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="vscode logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="38" alt="matlab logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="git logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="github logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="38" alt="canva logo"  />
+  <!-- Tech Stack Icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="38" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="38" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="38" alt="MATLAB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="38" alt="Canva" />
 </div>
 
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/radin-mokari" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <!-- Contact Buttons -->
+  <a href="https://www.linkedin.com/in/radin-mokari" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="radinmokariii@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:radinmokariii@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="radinmokariii@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  <a href="mailto:radinmokariii@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="35" alt="Outlook" />
   </a>
 </div>
 
@@ -91,6 +103,6 @@ You can click the Preview link to take a look at your changes.
 
 <br clear="both">
 
+<!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Radin-Mokari/Radin-Mokari/output/snake.svg" alt="Snake animation" />
 
-###
