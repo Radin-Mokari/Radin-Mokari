@@ -29,13 +29,13 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<h2 align="center">Hi 👋! I'm Radin Mokari</h2>
-<h3 align="center">A passionate Computer Science student exploring the world of technology!</h3>
+<h2 align="left">Hi 👋! I'm Radin Mokari</h2>
+<h3 align="left">A passionate Computer Science student exploring the vast world of technology!</h3>
 
-<p align="center">
-  I have intermediate proficiency in Python, foundational knowledge of Java, and basic machine learning techniques. I'm diving into the exciting field of cloud computing, particularly AWS, S3, and QuickSight.
+<p align="left">
+  I have an intermediate proficiency in Python, a foundation in Java, and basic knowledge of machine learning techniques. I'm also diving into the exciting field of cloud computing, particularly AWS, S3, and QuickSight.
   <br><br>
-  I enjoy taking on challenges and creating innovative projects—check them out below!
+  I enjoy tackling challenges and creating innovative projects—feel free to check them out below!
 </p>
 
 ###
@@ -43,32 +43,34 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <!-- GitHub Language Stats -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Radin-Mokari&locale=en&layout=compact&card_width=500&langs_count=5&theme=dracula&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Radin-Mokari&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" 
+    height="150" 
     alt="Top Languages" 
-    height="200"
-  />
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 30px; margin-top: 20px;">
-  <!-- GitHub Profile Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Radin-Mokari&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=true" 
-    alt="GitHub Stats"
-    height="150"
   />
   
   <!-- GitHub Streak Stats -->
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Radin-Mokari&theme=dracula&hide_border=true" 
-    alt="GitHub Streak"
-    height="150"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Radin-Mokari&theme=aura&hide_border=false" 
+    height="150" 
+    alt="GitHub Streak" 
+  />
+
+  <!-- GitHub Profile Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Radin-Mokari&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" 
+    height="150" 
+    alt="GitHub Stats" 
   />
 </div>
 
 ###
 
-<div align="center">
-  <h3>💻 Tech Stack</h3>
+<img align="right" height="150" src="https://i.pinimg.com/originals/f6/51/b0/f651b01095f3e3754ea5d3f5d6db90c9.gif" alt="GIF Animation" />
+
+###
+
+<div align="left">
+  <!-- Tech Stack Icons -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
@@ -84,40 +86,22 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<div align="center">
-  <h3>📫 Contact Me</h3>
+<div align="left">
+  <!-- Contact Buttons -->
   <a href="https://www.linkedin.com/in/radin-mokari" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="mailto:radinmokariii@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="mailto:radinmokariii@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" alt="Outlook" />
+  <a href="mailto:radinmokariii@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="35" alt="Outlook" />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <!-- Fun Image or Animation -->
-  <img 
-    src="https://i.pinimg.com/originals/f6/51/b0/f651b01095f3e3754ea5d3f5d6db90c9.gif" 
-    height="150" 
-    alt="Fun Animation"
-  />
-</div>
+<br clear="both">
 
-###
-
-<div align="center">
-  <!-- Snake Animation -->
-  <img 
-    src="https://raw.githubusercontent.com/Radin-Mokari/Radin-Mokari/output/snake.svg" 
-    alt="Snake animation" 
-  />
-</div>
-
-
-
-
+<!-- Snake Animation -->
+<img src="https://raw.githubusercontent.com/Radin-Mokari/Radin-Mokari/output/snake.svg" alt="Snake animation" />
