@@ -1,63 +1,87 @@
-<!---
-Radin-Mokari/Radin-Mokari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# 💫 About Me:
-👋 Hi, I’m Radin Mokari, a Computer Science student exploring the world of tech. I have an intermediate grip on Python, some Java fundamentals, basics of ML techniques, and a growing interest in AI, web, and data analysis.
+# Hi, I'm Radin Mokari 👋
 
+🎓 **BSc (Hons) Computer Science** student at the **University of Bradford** (Expected graduation: **December 2026**)
 
-## 🌐 Socials:
-<div align="left">
-  <!-- Contact Buttons -->
-  <a href="https://www.linkedin.com/in/radin-mokari" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
-  </a>
-  <a href="mailto:radinmokariii@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="mailto:radinmokariii@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&style=for-the-badge" height="35" alt="Outlook" />
-  </a>
-</div>
-
-# 💻 Tech Stack:
-<div align="left">
-  <!-- Core Tech Stack Icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="38" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="38" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="38" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="38" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="38" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="38" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="38" alt="Jupyter Notebook" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="38" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="38" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="38" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="38" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="38" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="38" alt="MATLAB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="38" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="38" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="38" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="38" alt="Canva" />
-  <!-- Extra: CrewAI & KNIME -->
-  <img src="https://img.icons8.com/color/48/robot-2--v1.png" height="38" alt="CrewAI" title="CrewAI" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/KNIME_logo.png" height="38" alt="KNIME" title="KNIME" />
-</div>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Radin-Mokari&theme=aura&hide_border=false&include_all_commits=false&count_private=false) <img align="right" height="150" src="https://i.pinimg.com/originals/f6/51/b0/f651b01095f3e3754ea5d3f5d6db90c9.gif" alt="GIF Animation" />
-![](https://github-readme-streak-stats.herokuapp.com/?user=Radin-Mokari&theme=aura&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Radin-Mokari&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+💡 I build practical AI and data-driven systems across **multi-agent workflows, machine learning, and full-stack development**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Radin-Mokari&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🤖 Focused on **AI Engineering**, **Machine Learning**, and **Data Applications**
+- 🧠 Hands-on with **multi-agent systems** (CrewAI), LLM workflows, and context engineering
+- 🌍 Currently based in **London** (flexible on location)
+- 🏆 Winner of **BRADHACK 12-Hours Hackathon** (April 2025)
+- 🎯 Open to opportunities in **AI engineering**, **ML**, and **data-focused software roles**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+`Python` `TypeScript` `JavaScript` `PHP` `React` `React Native` `Node.js` `FastAPI` `Flask` `Laravel`
+
+### AI / ML / Data
+`CrewAI` `Prompt Engineering` `Random Forest` `Decision Tree` `CNN` `KNN` `Logistic Regression` `Linear Regression` `Feature Engineering` `GridSearchCV` `ETL`
+
+### Databases & Cloud
+`MySQL` `MongoDB` `PostgreSQL` `SQLite` `Supabase` `AWS`
+
+### Tools
+`Git` `GitHub` `Expo` `REST APIs` `Jupyter` `VS Code` `KNIME`
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 [crewai-data-analysis](https://github.com/Radin-Mokari/crewai-data-analysis)
+Multi-agent data analysis pipeline using CrewAI and Gemini.
+- Designed structured agent orchestration and context handling
+- Built for reliable analytics workflows with scalable report generation
+
+### 🔹 [Disease-Diagnosis-ML-Project](https://github.com/Radin-Mokari/Disease-Diagnosis-ML-Project)
+Binary classification ML project for disease prediction.
+- Applied end-to-end ML workflow: cleaning, feature prep, training, and evaluation
+- Compared multiple models and optimization strategies
+
+### 🔹 [Portfolio](https://github.com/Radin-Mokari/Portfolio)
+Personal portfolio website (TypeScript-based).
+- Modern portfolio showcasing projects, skills, and experience
+
+### 🔹 [IEUK2025-Technology-Project](https://github.com/Radin-Mokari/IEUK2025-Technology-Project)
+Technology project completed during Bright Network IEUK.
+- Practical work aligned with software engineering and data problem-solving
+
+### 🔹 [ML-Courseworks](https://github.com/Radin-Mokari/ML-Courseworks)
+Machine learning practical coursework repository.
+- Contains coursework implementations and applied experimentation
+
+---
+
+## 💼 Experience Highlights
+
+- **Laboratory Demonstrator** @ University of Bradford (Sep 2025 – Dec 2025)
+- **Student Ambassador** @ University of Bradford (Nov 2024 – Nov 2025)
+- **Technology & Engineering Intern (IEUK)** @ Bright Network (Jul 2025)
+- **Student Representative** for Computer Science Programme
+
+---
+
+## 🌐 Connect with Me
+
+- LinkedIn: [linkedin.com/in/radin-mokari](https://www.linkedin.com/in/radin-mokari)
+- Email: [radinmokariii@gmail.com](mailto:radinmokariii@gmail.com)
+- GitHub: [github.com/Radin-Mokari](https://github.com/Radin-Mokari)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Radin-Mokari&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Radin-Mokari&theme=aura&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Radin-Mokari&theme=aura&hide_border=false&layout=compact)
+
+---
 
 <div align="center">
 
